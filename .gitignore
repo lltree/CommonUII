@@ -28,7 +28,7 @@ Podfile.lock
 #
 Pods/
 *.xcworkspace
-*.xcodeproj
+#*.xcodeproj
 /Example/HouseCommonComponent.xcodeproj
 .idea/.name
 .idea/modules.xml
